@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oaMnvA0KQobVKrrHJ5K5ZAh9FzjMKOSB/9YFQDc5sXVvCGB6ha02+NL020M1nhXevFYT31dssq43cd50g+8iRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Henrique\\Desktop\\NovaVidaTi\\NovaVidaTi\\NovaVidaTi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique\\.nuget\\packages\\htmlagilitypack\\1.11.40\\htmlagilitypack.1.11.40.nupkg.sha512"
+  ],
+  "logs": []
+}
